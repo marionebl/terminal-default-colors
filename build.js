@@ -73,7 +73,11 @@ async function main() {
             colors: colors.map(c => {
                 const item = matrix.find(i => i.x === terminal.x && i.y === c.y);
                 const source = item.value ? item : matrix.find(i => i.x === 0 && i.y === c.y);
-                return Object.assign({}, c, {
+                return Object.assign({
+                    displayName: c.displayName,
+                    id: c.index,
+                    name: c.name
+                }, {
                     rgb: source.value.split(',')
                         .map(f => f.trim())
                         .map(f => parseInt(f, 10))
