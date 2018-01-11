@@ -1,0 +1,1458 @@
+{
+  "vga": {
+    "displayName": "VGA",
+    "name": "vga",
+    "colors": [
+      {
+        "displayName": "Black",
+        "index": 0,
+        "name": "black",
+        "y": 0,
+        "rgb": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "displayName": "Red",
+        "index": 1,
+        "name": "red",
+        "y": 1,
+        "rgb": [
+          170,
+          0,
+          0
+        ]
+      },
+      {
+        "displayName": "Green",
+        "index": 2,
+        "name": "green",
+        "y": 2,
+        "rgb": [
+          0,
+          170,
+          0
+        ]
+      },
+      {
+        "displayName": "Yellow",
+        "index": 3,
+        "name": "yellow",
+        "y": 3,
+        "rgb": [
+          170,
+          85,
+          0
+        ]
+      },
+      {
+        "displayName": "Blue",
+        "index": 4,
+        "name": "blue",
+        "y": 4,
+        "rgb": [
+          0,
+          0,
+          170
+        ]
+      },
+      {
+        "displayName": "Magenta",
+        "index": 5,
+        "name": "magenta",
+        "y": 5,
+        "rgb": [
+          170,
+          0,
+          170
+        ]
+      },
+      {
+        "displayName": "Cyan",
+        "index": 6,
+        "name": "cyan",
+        "y": 6,
+        "rgb": [
+          0,
+          170,
+          170
+        ]
+      },
+      {
+        "displayName": "White",
+        "index": 7,
+        "name": "white",
+        "y": 7,
+        "rgb": [
+          170,
+          170,
+          170
+        ]
+      },
+      {
+        "displayName": "Bright Black",
+        "index": 8,
+        "name": "brightBlack",
+        "y": 8,
+        "rgb": [
+          85,
+          85,
+          85
+        ]
+      },
+      {
+        "displayName": "Bright Red",
+        "index": 9,
+        "name": "brightRed",
+        "y": 9,
+        "rgb": [
+          255,
+          85,
+          85
+        ]
+      },
+      {
+        "displayName": "Bright Green",
+        "index": 10,
+        "name": "brightGreen",
+        "y": 10,
+        "rgb": [
+          85,
+          255,
+          85
+        ]
+      },
+      {
+        "displayName": "Bright Yellow",
+        "index": 11,
+        "name": "brightYellow",
+        "y": 11,
+        "rgb": [
+          255,
+          255,
+          85
+        ]
+      },
+      {
+        "displayName": "Bright Blue",
+        "index": 12,
+        "name": "brightBlue",
+        "y": 12,
+        "rgb": [
+          85,
+          85,
+          255
+        ]
+      },
+      {
+        "displayName": "Bright Magenta",
+        "index": 13,
+        "name": "brightMagenta",
+        "y": 13,
+        "rgb": [
+          255,
+          85,
+          255
+        ]
+      },
+      {
+        "displayName": "Bright Cyan",
+        "index": 14,
+        "name": "brightCyan",
+        "y": 14,
+        "rgb": [
+          85,
+          255,
+          255
+        ]
+      },
+      {
+        "displayName": "Bright White",
+        "index": 15,
+        "name": "brightWhite",
+        "y": 15,
+        "rgb": [
+          255,
+          255,
+          255
+        ]
+      }
+    ]
+  },
+  "cmd": {
+    "displayName": "CMD",
+    "name": "cmd",
+    "colors": [
+      {
+        "displayName": "Black",
+        "index": 0,
+        "name": "black",
+        "y": 0,
+        "rgb": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "displayName": "Red",
+        "index": 1,
+        "name": "red",
+        "y": 1,
+        "rgb": [
+          128,
+          0,
+          0
+        ]
+      },
+      {
+        "displayName": "Green",
+        "index": 2,
+        "name": "green",
+        "y": 2,
+        "rgb": [
+          0,
+          128,
+          0
+        ]
+      },
+      {
+        "displayName": "Yellow",
+        "index": 3,
+        "name": "yellow",
+        "y": 3,
+        "rgb": [
+          128,
+          128,
+          0
+        ]
+      },
+      {
+        "displayName": "Blue",
+        "index": 4,
+        "name": "blue",
+        "y": 4,
+        "rgb": [
+          0,
+          0,
+          128
+        ]
+      },
+      {
+        "displayName": "Magenta",
+        "index": 5,
+        "name": "magenta",
+        "y": 5,
+        "rgb": [
+          128,
+          0,
+          128
+        ]
+      },
+      {
+        "displayName": "Cyan",
+        "index": 6,
+        "name": "cyan",
+        "y": 6,
+        "rgb": [
+          0,
+          128,
+          128
+        ]
+      },
+      {
+        "displayName": "White",
+        "index": 7,
+        "name": "white",
+        "y": 7,
+        "rgb": [
+          192,
+          192,
+          192
+        ]
+      },
+      {
+        "displayName": "Bright Black",
+        "index": 8,
+        "name": "brightBlack",
+        "y": 8,
+        "rgb": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "displayName": "Bright Red",
+        "index": 9,
+        "name": "brightRed",
+        "y": 9,
+        "rgb": [
+          255,
+          0,
+          0
+        ]
+      },
+      {
+        "displayName": "Bright Green",
+        "index": 10,
+        "name": "brightGreen",
+        "y": 10,
+        "rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "displayName": "Bright Yellow",
+        "index": 11,
+        "name": "brightYellow",
+        "y": 11,
+        "rgb": [
+          255,
+          255,
+          0
+        ]
+      },
+      {
+        "displayName": "Bright Blue",
+        "index": 12,
+        "name": "brightBlue",
+        "y": 12,
+        "rgb": [
+          0,
+          0,
+          255
+        ]
+      },
+      {
+        "displayName": "Bright Magenta",
+        "index": 13,
+        "name": "brightMagenta",
+        "y": 13,
+        "rgb": [
+          255,
+          0,
+          255
+        ]
+      },
+      {
+        "displayName": "Bright Cyan",
+        "index": 14,
+        "name": "brightCyan",
+        "y": 14,
+        "rgb": [
+          0,
+          255,
+          255
+        ]
+      },
+      {
+        "displayName": "Bright White",
+        "index": 15,
+        "name": "brightWhite",
+        "y": 15,
+        "rgb": [
+          255,
+          255,
+          255
+        ]
+      }
+    ]
+  },
+  "terminal": {
+    "displayName": "Terminal.app",
+    "name": "terminal",
+    "colors": [
+      {
+        "displayName": "Black",
+        "index": 0,
+        "name": "black",
+        "y": 0,
+        "rgb": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "displayName": "Red",
+        "index": 1,
+        "name": "red",
+        "y": 1,
+        "rgb": [
+          194,
+          54,
+          33
+        ]
+      },
+      {
+        "displayName": "Green",
+        "index": 2,
+        "name": "green",
+        "y": 2,
+        "rgb": [
+          37,
+          188,
+          36
+        ]
+      },
+      {
+        "displayName": "Yellow",
+        "index": 3,
+        "name": "yellow",
+        "y": 3,
+        "rgb": [
+          173,
+          173,
+          39
+        ]
+      },
+      {
+        "displayName": "Blue",
+        "index": 4,
+        "name": "blue",
+        "y": 4,
+        "rgb": [
+          73,
+          46,
+          225
+        ]
+      },
+      {
+        "displayName": "Magenta",
+        "index": 5,
+        "name": "magenta",
+        "y": 5,
+        "rgb": [
+          211,
+          56,
+          211
+        ]
+      },
+      {
+        "displayName": "Cyan",
+        "index": 6,
+        "name": "cyan",
+        "y": 6,
+        "rgb": [
+          51,
+          187,
+          200
+        ]
+      },
+      {
+        "displayName": "White",
+        "index": 7,
+        "name": "white",
+        "y": 7,
+        "rgb": [
+          203,
+          204,
+          205
+        ]
+      },
+      {
+        "displayName": "Bright Black",
+        "index": 8,
+        "name": "brightBlack",
+        "y": 8,
+        "rgb": [
+          129,
+          131,
+          131
+        ]
+      },
+      {
+        "displayName": "Bright Red",
+        "index": 9,
+        "name": "brightRed",
+        "y": 9,
+        "rgb": [
+          252,
+          57,
+          31
+        ]
+      },
+      {
+        "displayName": "Bright Green",
+        "index": 10,
+        "name": "brightGreen",
+        "y": 10,
+        "rgb": [
+          49,
+          231,
+          34
+        ]
+      },
+      {
+        "displayName": "Bright Yellow",
+        "index": 11,
+        "name": "brightYellow",
+        "y": 11,
+        "rgb": [
+          234,
+          236,
+          35
+        ]
+      },
+      {
+        "displayName": "Bright Blue",
+        "index": 12,
+        "name": "brightBlue",
+        "y": 12,
+        "rgb": [
+          88,
+          51,
+          255
+        ]
+      },
+      {
+        "displayName": "Bright Magenta",
+        "index": 13,
+        "name": "brightMagenta",
+        "y": 13,
+        "rgb": [
+          249,
+          53,
+          248
+        ]
+      },
+      {
+        "displayName": "Bright Cyan",
+        "index": 14,
+        "name": "brightCyan",
+        "y": 14,
+        "rgb": [
+          20,
+          240,
+          240
+        ]
+      },
+      {
+        "displayName": "Bright White",
+        "index": 15,
+        "name": "brightWhite",
+        "y": 15,
+        "rgb": [
+          233,
+          235,
+          235
+        ]
+      }
+    ]
+  },
+  "putty": {
+    "displayName": "PuTTY",
+    "name": "putty",
+    "colors": [
+      {
+        "displayName": "Black",
+        "index": 0,
+        "name": "black",
+        "y": 0,
+        "rgb": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "displayName": "Red",
+        "index": 1,
+        "name": "red",
+        "y": 1,
+        "rgb": [
+          187,
+          0,
+          0
+        ]
+      },
+      {
+        "displayName": "Green",
+        "index": 2,
+        "name": "green",
+        "y": 2,
+        "rgb": [
+          0,
+          187,
+          0
+        ]
+      },
+      {
+        "displayName": "Yellow",
+        "index": 3,
+        "name": "yellow",
+        "y": 3,
+        "rgb": [
+          187,
+          187,
+          0
+        ]
+      },
+      {
+        "displayName": "Blue",
+        "index": 4,
+        "name": "blue",
+        "y": 4,
+        "rgb": [
+          0,
+          0,
+          187
+        ]
+      },
+      {
+        "displayName": "Magenta",
+        "index": 5,
+        "name": "magenta",
+        "y": 5,
+        "rgb": [
+          187,
+          0,
+          187
+        ]
+      },
+      {
+        "displayName": "Cyan",
+        "index": 6,
+        "name": "cyan",
+        "y": 6,
+        "rgb": [
+          0,
+          187,
+          187
+        ]
+      },
+      {
+        "displayName": "White",
+        "index": 7,
+        "name": "white",
+        "y": 7,
+        "rgb": [
+          187,
+          187,
+          187
+        ]
+      },
+      {
+        "displayName": "Bright Black",
+        "index": 8,
+        "name": "brightBlack",
+        "y": 8,
+        "rgb": [
+          85,
+          85,
+          85
+        ]
+      },
+      {
+        "displayName": "Bright Red",
+        "index": 9,
+        "name": "brightRed",
+        "y": 9,
+        "rgb": [
+          255,
+          85,
+          85
+        ]
+      },
+      {
+        "displayName": "Bright Green",
+        "index": 10,
+        "name": "brightGreen",
+        "y": 10,
+        "rgb": [
+          85,
+          255,
+          85
+        ]
+      },
+      {
+        "displayName": "Bright Yellow",
+        "index": 11,
+        "name": "brightYellow",
+        "y": 11,
+        "rgb": [
+          255,
+          255,
+          85
+        ]
+      },
+      {
+        "displayName": "Bright Blue",
+        "index": 12,
+        "name": "brightBlue",
+        "y": 12,
+        "rgb": [
+          85,
+          85,
+          255
+        ]
+      },
+      {
+        "displayName": "Bright Magenta",
+        "index": 13,
+        "name": "brightMagenta",
+        "y": 13,
+        "rgb": [
+          255,
+          85,
+          255
+        ]
+      },
+      {
+        "displayName": "Bright Cyan",
+        "index": 14,
+        "name": "brightCyan",
+        "y": 14,
+        "rgb": [
+          85,
+          255,
+          255
+        ]
+      },
+      {
+        "displayName": "Bright White",
+        "index": 15,
+        "name": "brightWhite",
+        "y": 15,
+        "rgb": [
+          255,
+          255,
+          255
+        ]
+      }
+    ]
+  },
+  "mirc": {
+    "displayName": "mIRC",
+    "name": "mirc",
+    "colors": [
+      {
+        "displayName": "Black",
+        "index": 0,
+        "name": "black",
+        "y": 0,
+        "rgb": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "displayName": "Red",
+        "index": 1,
+        "name": "red",
+        "y": 1,
+        "rgb": [
+          127,
+          0,
+          0
+        ]
+      },
+      {
+        "displayName": "Green",
+        "index": 2,
+        "name": "green",
+        "y": 2,
+        "rgb": [
+          0,
+          147,
+          0
+        ]
+      },
+      {
+        "displayName": "Yellow",
+        "index": 3,
+        "name": "yellow",
+        "y": 3,
+        "rgb": [
+          252,
+          127,
+          0
+        ]
+      },
+      {
+        "displayName": "Blue",
+        "index": 4,
+        "name": "blue",
+        "y": 4,
+        "rgb": [
+          0,
+          0,
+          127
+        ]
+      },
+      {
+        "displayName": "Magenta",
+        "index": 5,
+        "name": "magenta",
+        "y": 5,
+        "rgb": [
+          156,
+          0,
+          156
+        ]
+      },
+      {
+        "displayName": "Cyan",
+        "index": 6,
+        "name": "cyan",
+        "y": 6,
+        "rgb": [
+          0,
+          147,
+          147
+        ]
+      },
+      {
+        "displayName": "White",
+        "index": 7,
+        "name": "white",
+        "y": 7,
+        "rgb": [
+          210,
+          210,
+          210
+        ]
+      },
+      {
+        "displayName": "Bright Black",
+        "index": 8,
+        "name": "brightBlack",
+        "y": 8,
+        "rgb": [
+          127,
+          127,
+          127
+        ]
+      },
+      {
+        "displayName": "Bright Red",
+        "index": 9,
+        "name": "brightRed",
+        "y": 9,
+        "rgb": [
+          255,
+          0,
+          0
+        ]
+      },
+      {
+        "displayName": "Bright Green",
+        "index": 10,
+        "name": "brightGreen",
+        "y": 10,
+        "rgb": [
+          0,
+          252,
+          0
+        ]
+      },
+      {
+        "displayName": "Bright Yellow",
+        "index": 11,
+        "name": "brightYellow",
+        "y": 11,
+        "rgb": [
+          255,
+          255,
+          0
+        ]
+      },
+      {
+        "displayName": "Bright Blue",
+        "index": 12,
+        "name": "brightBlue",
+        "y": 12,
+        "rgb": [
+          0,
+          0,
+          252
+        ]
+      },
+      {
+        "displayName": "Bright Magenta",
+        "index": 13,
+        "name": "brightMagenta",
+        "y": 13,
+        "rgb": [
+          255,
+          0,
+          255
+        ]
+      },
+      {
+        "displayName": "Bright Cyan",
+        "index": 14,
+        "name": "brightCyan",
+        "y": 14,
+        "rgb": [
+          0,
+          255,
+          255
+        ]
+      },
+      {
+        "displayName": "Bright White",
+        "index": 15,
+        "name": "brightWhite",
+        "y": 15,
+        "rgb": [
+          255,
+          255,
+          255
+        ]
+      }
+    ]
+  },
+  "xterm": {
+    "displayName": "xterm",
+    "name": "xterm",
+    "colors": [
+      {
+        "displayName": "Black",
+        "index": 0,
+        "name": "black",
+        "y": 0,
+        "rgb": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "displayName": "Red",
+        "index": 1,
+        "name": "red",
+        "y": 1,
+        "rgb": [
+          205,
+          0,
+          0
+        ]
+      },
+      {
+        "displayName": "Green",
+        "index": 2,
+        "name": "green",
+        "y": 2,
+        "rgb": [
+          0,
+          205,
+          0
+        ]
+      },
+      {
+        "displayName": "Yellow",
+        "index": 3,
+        "name": "yellow",
+        "y": 3,
+        "rgb": [
+          205,
+          205,
+          0
+        ]
+      },
+      {
+        "displayName": "Blue",
+        "index": 4,
+        "name": "blue",
+        "y": 4,
+        "rgb": [
+          0,
+          0,
+          238
+        ]
+      },
+      {
+        "displayName": "Magenta",
+        "index": 5,
+        "name": "magenta",
+        "y": 5,
+        "rgb": [
+          205,
+          0,
+          205
+        ]
+      },
+      {
+        "displayName": "Cyan",
+        "index": 6,
+        "name": "cyan",
+        "y": 6,
+        "rgb": [
+          0,
+          205,
+          205
+        ]
+      },
+      {
+        "displayName": "White",
+        "index": 7,
+        "name": "white",
+        "y": 7,
+        "rgb": [
+          229,
+          229,
+          229
+        ]
+      },
+      {
+        "displayName": "Bright Black",
+        "index": 8,
+        "name": "brightBlack",
+        "y": 8,
+        "rgb": [
+          127,
+          127,
+          127
+        ]
+      },
+      {
+        "displayName": "Bright Red",
+        "index": 9,
+        "name": "brightRed",
+        "y": 9,
+        "rgb": [
+          255,
+          0,
+          0
+        ]
+      },
+      {
+        "displayName": "Bright Green",
+        "index": 10,
+        "name": "brightGreen",
+        "y": 10,
+        "rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "displayName": "Bright Yellow",
+        "index": 11,
+        "name": "brightYellow",
+        "y": 11,
+        "rgb": [
+          255,
+          255,
+          0
+        ]
+      },
+      {
+        "displayName": "Bright Blue",
+        "index": 12,
+        "name": "brightBlue",
+        "y": 12,
+        "rgb": [
+          92,
+          92,
+          255
+        ]
+      },
+      {
+        "displayName": "Bright Magenta",
+        "index": 13,
+        "name": "brightMagenta",
+        "y": 13,
+        "rgb": [
+          255,
+          0,
+          255
+        ]
+      },
+      {
+        "displayName": "Bright Cyan",
+        "index": 14,
+        "name": "brightCyan",
+        "y": 14,
+        "rgb": [
+          0,
+          255,
+          255
+        ]
+      },
+      {
+        "displayName": "Bright White",
+        "index": 15,
+        "name": "brightWhite",
+        "y": 15,
+        "rgb": [
+          255,
+          255,
+          255
+        ]
+      }
+    ]
+  },
+  "x": {
+    "displayName": "X",
+    "name": "x",
+    "colors": [
+      {
+        "displayName": "Black",
+        "index": 0,
+        "name": "black",
+        "y": 0,
+        "rgb": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "displayName": "Red",
+        "index": 1,
+        "name": "red",
+        "y": 1,
+        "rgb": [
+          255,
+          0,
+          0
+        ]
+      },
+      {
+        "displayName": "Green",
+        "index": 2,
+        "name": "green",
+        "y": 2,
+        "rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "displayName": "Yellow",
+        "index": 3,
+        "name": "yellow",
+        "y": 3,
+        "rgb": [
+          255,
+          255,
+          0
+        ]
+      },
+      {
+        "displayName": "Blue",
+        "index": 4,
+        "name": "blue",
+        "y": 4,
+        "rgb": [
+          0,
+          0,
+          255
+        ]
+      },
+      {
+        "displayName": "Magenta",
+        "index": 5,
+        "name": "magenta",
+        "y": 5,
+        "rgb": [
+          255,
+          0,
+          255
+        ]
+      },
+      {
+        "displayName": "Cyan",
+        "index": 6,
+        "name": "cyan",
+        "y": 6,
+        "rgb": [
+          0,
+          255,
+          255
+        ]
+      },
+      {
+        "displayName": "White",
+        "index": 7,
+        "name": "white",
+        "y": 7,
+        "rgb": [
+          255,
+          255,
+          255
+        ]
+      },
+      {
+        "displayName": "Bright Black",
+        "index": 8,
+        "name": "brightBlack",
+        "y": 8,
+        "rgb": [
+          85,
+          85,
+          85
+        ]
+      },
+      {
+        "displayName": "Bright Red",
+        "index": 9,
+        "name": "brightRed",
+        "y": 9,
+        "rgb": [
+          255,
+          85,
+          85
+        ]
+      },
+      {
+        "displayName": "Bright Green",
+        "index": 10,
+        "name": "brightGreen",
+        "y": 10,
+        "rgb": [
+          144,
+          238,
+          144
+        ]
+      },
+      {
+        "displayName": "Bright Yellow",
+        "index": 11,
+        "name": "brightYellow",
+        "y": 11,
+        "rgb": [
+          255,
+          255,
+          224
+        ]
+      },
+      {
+        "displayName": "Bright Blue",
+        "index": 12,
+        "name": "brightBlue",
+        "y": 12,
+        "rgb": [
+          173,
+          216,
+          230
+        ]
+      },
+      {
+        "displayName": "Bright Magenta",
+        "index": 13,
+        "name": "brightMagenta",
+        "y": 13,
+        "rgb": [
+          255,
+          85,
+          255
+        ]
+      },
+      {
+        "displayName": "Bright Cyan",
+        "index": 14,
+        "name": "brightCyan",
+        "y": 14,
+        "rgb": [
+          224,
+          255,
+          255
+        ]
+      },
+      {
+        "displayName": "Bright White",
+        "index": 15,
+        "name": "brightWhite",
+        "y": 15,
+        "rgb": [
+          255,
+          255,
+          255
+        ]
+      }
+    ]
+  },
+  "ubuntu": {
+    "displayName": "Ubuntu",
+    "name": "ubuntu",
+    "colors": [
+      {
+        "displayName": "Black",
+        "index": 0,
+        "name": "black",
+        "y": 0,
+        "rgb": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "displayName": "Red",
+        "index": 1,
+        "name": "red",
+        "y": 1,
+        "rgb": [
+          222,
+          56,
+          43
+        ]
+      },
+      {
+        "displayName": "Green",
+        "index": 2,
+        "name": "green",
+        "y": 2,
+        "rgb": [
+          57,
+          181,
+          74
+        ]
+      },
+      {
+        "displayName": "Yellow",
+        "index": 3,
+        "name": "yellow",
+        "y": 3,
+        "rgb": [
+          255,
+          199,
+          6
+        ]
+      },
+      {
+        "displayName": "Blue",
+        "index": 4,
+        "name": "blue",
+        "y": 4,
+        "rgb": [
+          0,
+          111,
+          184
+        ]
+      },
+      {
+        "displayName": "Magenta",
+        "index": 5,
+        "name": "magenta",
+        "y": 5,
+        "rgb": [
+          118,
+          38,
+          113
+        ]
+      },
+      {
+        "displayName": "Cyan",
+        "index": 6,
+        "name": "cyan",
+        "y": 6,
+        "rgb": [
+          44,
+          181,
+          233
+        ]
+      },
+      {
+        "displayName": "White",
+        "index": 7,
+        "name": "white",
+        "y": 7,
+        "rgb": [
+          204,
+          204,
+          204
+        ]
+      },
+      {
+        "displayName": "Bright Black",
+        "index": 8,
+        "name": "brightBlack",
+        "y": 8,
+        "rgb": [
+          128,
+          128,
+          128
+        ]
+      },
+      {
+        "displayName": "Bright Red",
+        "index": 9,
+        "name": "brightRed",
+        "y": 9,
+        "rgb": [
+          255,
+          0,
+          0
+        ]
+      },
+      {
+        "displayName": "Bright Green",
+        "index": 10,
+        "name": "brightGreen",
+        "y": 10,
+        "rgb": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "displayName": "Bright Yellow",
+        "index": 11,
+        "name": "brightYellow",
+        "y": 11,
+        "rgb": [
+          255,
+          255,
+          0
+        ]
+      },
+      {
+        "displayName": "Bright Blue",
+        "index": 12,
+        "name": "brightBlue",
+        "y": 12,
+        "rgb": [
+          0,
+          0,
+          255
+        ]
+      },
+      {
+        "displayName": "Bright Magenta",
+        "index": 13,
+        "name": "brightMagenta",
+        "y": 13,
+        "rgb": [
+          255,
+          0,
+          255
+        ]
+      },
+      {
+        "displayName": "Bright Cyan",
+        "index": 14,
+        "name": "brightCyan",
+        "y": 14,
+        "rgb": [
+          0,
+          255,
+          255
+        ]
+      },
+      {
+        "displayName": "Bright White",
+        "index": 15,
+        "name": "brightWhite",
+        "y": 15,
+        "rgb": [
+          255,
+          255,
+          255
+        ]
+      }
+    ]
+  }
+}
